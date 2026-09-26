@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you cite, quote, summarize, adapt, or reference Cosmic Horizon's original naming, metaphors, terminology, structure, boundary models, documented patterns, or blueprints, please cite this archive."
+title: "Cosmic Horizon 한국어"
+
+authors:
+  - given-names: "Riu"
+    family-names: "Salze"
+
+url: "https://riu-salze-studio.gitbook.io/cosmic-horizon/kr/"
+repository-code: "https://github.com/revertable/cosmic-horizon-kr"
+
+abstract: "Cosmic Horizon 한국어는 Riu Salze의 공개 엔지니어링 아카이브 Cosmic Horizon의 Korean variant입니다. AI-assisted development, human judgment, verification, responsibility에 관한 개념, 메타포, 용어, 경계 모델, 기록된 패턴, 관측 가능한 엔지니어링 구조를 독립적으로 정리합니다."
+
+keywords:
+  - "Cosmic Horizon"
+  - "Cosmic Horizon 한국어"
+  - "Riu Salze"
+  - "Korean variant"
+  - "AI-assisted development"
+  - "human judgment"
+  - "verification"
+  - "boundary systems"
+  - "observable engineering work"
+  - "Codex workflow"
+  - "agent instructions"
+  - "engineering responsibility"
+
+license: "CC-BY-NC-SA-4.0"

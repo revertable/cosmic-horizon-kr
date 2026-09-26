@@ -99,7 +99,7 @@ _이것 또한 의도한 바입니다._
 
 * GitHub: [@revertable](https://github.com/revertable)
 * LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
-* Published Site: [Visit Cosmic Horizon](https://riu-salze-studio.gitbook.io/cosmic-horizon/)
+* Published Site: [Visit Cosmic Horizon — Korean](https://riu-salze-studio.gitbook.io/cosmic-horizon/kr/)
 
 ## How to cite
 
@@ -110,8 +110,8 @@ Cosmic Horizon은 독립적으로 쓰이고 구조화된 아카이브입니다. 
 **권장 출처 표기:**
 
 > Riu Salze. (2026). _Cosmic Horizon_.\
-> Published archive: [https://riu-salze-studio.gitbook.io/cosmic-horizon/](https://riu-salze-studio.gitbook.io/cosmic-horizon/)\
-> Repository: [https://github.com/revertable/cosmic-horizon](https://github.com/revertable/cosmic-horizon)\
+> Published archive: [https://riu-salze-studio.gitbook.io/cosmic-horizon/kr/](https://riu-salze-studio.gitbook.io/cosmic-horizon/kr/)\
+> Repository: [https://github.com/revertable/cosmic-horizon-kr](https://github.com/revertable/cosmic-horizon-kr)\
 > License: CC BY-NC-SA 4.0
 
 자세한 라이선스 조건은 아래 섹션을 확인해 주세요.

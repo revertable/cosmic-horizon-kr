@@ -1,0 +1,9 @@
+- tag: perspective
+  label: Perspective
+  color: violet
+- tag: operating-system
+  label: Operating System
+  color: cyan
+- tag: case
+  label: case
+  color: pink

@@ -4,6 +4,10 @@ description: 전통적인 개발과 AI 협업 개발, 경험을 통해 내린 �
 
 # Try It.
 
+> “나는 이 게임을 해봤어요.”
+>
+> — 성기훈, _오징어 게임_
+
 ## The Horizon I Knew
 
 나는 거의 10년 동안 주로 Java와 Spring으로 소프트웨어를 개발했다.
